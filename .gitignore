@@ -23,3 +23,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# dist
+/dist
+
+# Local Netlify folder
+.netlify
+
+# mdx
+.mdx-data
